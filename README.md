@@ -11,10 +11,8 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vknxt&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vknxt&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
-
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
@@ -37,7 +35,6 @@
   <div>
     
   <br>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -45,10 +42,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vknxt/vknxt/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
 
 <br>
 

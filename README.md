@@ -13,7 +13,7 @@
 
 ---
 
-# 💻 Linguagens principais
+# Linguagens principais
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge\&logo=kotlin\&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-# 🛠 Ferramentas
+# Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-# 📚 Estudando atualmente
+# Estudando atualmente
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge\&logo=kotlin\&logoColor=white)
@@ -38,4 +38,4 @@
 
 ---
 
-⭐ Obrigado por visitar meu perfil
+Obrigado por visitar meu perfil

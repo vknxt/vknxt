@@ -14,10 +14,21 @@
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vknxt&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
 
+</div>
+
+<div align="center">
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
 <br>
 
 <div align="center">

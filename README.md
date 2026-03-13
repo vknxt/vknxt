@@ -44,7 +44,7 @@
 ---
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:arthurperez654@gmail.com">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="LINK_DO_SEU_LINKEDIN_AQUI">

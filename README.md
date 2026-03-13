@@ -1,48 +1,56 @@
 <div align="center">
   <a href="https://github.com/vknxt">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&color=58A6FF&size=28&center=true&vCenter=true&width=800&height=100&lines=Olá,+Meu+Nick+é+!VK;Meu+Nome+é+Arthur;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&color=FFFFFF&size=28&center=true&vCenter=true&width=800&height=100&lines=Olá,+Meu+Nick+é+!VK;Meu+Nome+é+Arthur;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
   </a>
-  <p><em>Um apaixonado por tecnologia construindo coisas incríveis! 🚀</em></p>
 </div>
 
 ---
-
-### Estatísticas e Atividade
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vknxt&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vknxt&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=1A1B27&color=70A5FD&line=bf91f3&point=161b22&area=true&hide_border=true" alt="Grafo de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vknxt&theme=tokyonight&row=1&column=6&no-bg=true&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vknxt&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
 
-### Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+---
 
 <div align="center">
-
-  **Linguagens de Programação**<br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-  <br><br>
-
-  **Ferramentas de Desenvolvimento**<br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_DO_DISCORD_AQUI">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>

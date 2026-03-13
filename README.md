@@ -9,53 +9,55 @@
 <br>
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vknxt&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vknxt&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vknxt&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vknxt&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
+
 <br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vknxt&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15" />
+</div>
 
 ---
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=vknxt&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vknxt&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
- <div align="center">
-   [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-  <div>
-    
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  
 </div>
 
-<br>
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vknxt/vknxt/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vknxt&color=000000&style=for-the-badge&label=VIEWS" />
-  <a href="mailto:arthurperez654@gmail.com">
+  <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  
+  </a>
+  <a href="LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>

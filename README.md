@@ -31,11 +31,6 @@
 </div>
 <br>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
-<br>
-
 ---
 
 <div align="center">

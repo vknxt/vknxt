@@ -36,10 +36,6 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vknxt&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15" />
-</div>
-
 ---
 
 <div align="center">

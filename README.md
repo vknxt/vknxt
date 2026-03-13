@@ -57,10 +57,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vknxt&color=000000&style=for-the-badge&label=VIEWS" />
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:arthurperez654@gmail.com">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>

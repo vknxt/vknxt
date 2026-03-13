@@ -1,26 +1,32 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=Arthur%20VK&fontSize=70&fontAlignY=50&animation=fadeIn" alt="Header" />
+
   <a href="https://github.com/vknxt">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&color=FFFFFF&size=28&center=true&vCenter=true&width=800&height=100&lines=Olá,+Meu+Nick+é+!VK;Meu+Nome+é+Arthur;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&color=FFFFFF&size=24&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+JavaScript;Welcome+to+my+world" alt="Typing SVG" />
   </a>
 </div>
 
----
+<br>
 
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vknxt&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Langs" />
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vknxt&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vknxt&theme=dark&background=000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vknxt&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vknxt&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vknxt&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vknxt&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15" />
 </div>
 
 ---
@@ -31,26 +37,23 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
+  <br>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="mailto:arthurperez654@gmail.com">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="SEU_LINK_DO_DISCORD_AQUI">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/vknxt/vknxt/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vknxt&color=000000&style=for-the-badge&label=VIEWS" />
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  

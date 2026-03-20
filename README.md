@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=Arthur%20VK&fontSize=70&fontAlignY=50&animation=fadeIn" alt="Header" />
+  
   <a href="https://github.com/vknxt">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&color=FFFFFF&size=24&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+JavaScript;Welcome+to+my+world" alt="Typing SVG" />
   </a>
